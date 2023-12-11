@@ -3,3 +3,9 @@ header {
     color: #fff; /* Light text color */
     text-align: center;
 }
+
+body {
+    margin: 0;
+    background-image: url( '/Users/langstonjohnson/git/tier-1/week-5/Assignments/eda-pw-week-5-assignment-part-2/assignment/record.png' );
+    background-repeat: repeat;
+}
