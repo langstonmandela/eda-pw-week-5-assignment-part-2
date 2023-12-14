@@ -1,11 +1,17 @@
-header {
+body {
+    margin: 0;
+    background-image: url( '/Users/langstonjohnson/git/tier-1/week-5/Assignments/eda-pw-week-5-assignment-part-2/assignment/record.png' );
+    background-repeat: repeat;
+}
+
+.site-header {
     background-color: #333; /* Dark background color */
     color: #fff; /* Light text color */
     text-align: center;
 }
 
-body {
-    margin: 0;
-    background-image: url( '/Users/langstonjohnson/git/tier-1/week-5/Assignments/eda-pw-week-5-assignment-part-2/assignment/record.png' );
-    background-repeat: repeat;
+.main-content {
+    background-color: lightgrey;
+    padding: 1em;
+    /* text-align: center; - for the record... I wanted to center align this as well */
 }
